@@ -137,7 +137,7 @@
             arguments: {
               URL: {
                 type: Scratch.ArgumentType.STRING,
-                defaultValue: "https://extensions.turbowarp.org/sus.mp4",
+                defaultValue: "https://github.com/daisytheumbreon-B3/extensions/sus.mp4",
               },
               NAME: {
                 type: Scratch.ArgumentType.STRING,
